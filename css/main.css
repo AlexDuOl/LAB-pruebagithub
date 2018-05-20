@@ -1,0 +1,66 @@
+body {
+  background-image: url('../assets/images/gatonegro1.jpg');
+  margin: 0;
+}
+
+header {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  background-color: #A6ACAF;
+  border-color: #909497;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+}
+
+img {
+  border-radius:10px;
+  margin: 10px;
+  width: 300px;
+}
+
+div {
+  display: inline-block;
+  float:left;
+  height: auto;
+  width: fit-content;
+}
+
+div.contenedor {
+  background-color: white;
+  border-radius:10px;
+  display: inline-block;
+  float:left;
+  height: auto;
+  margin: 30px;
+  width: auto;
+}
+
+#mensajes {
+  border-radius: 10px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+  height: auto;
+  margin: 10px;
+  width: auto;
+}
+
+#botton {
+  background-color: #66bfce;
+  border-radius: 3px;
+  display: inline-block;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+  top: 220px;
+  margin: 10px;
+  padding: 7px;
+}
